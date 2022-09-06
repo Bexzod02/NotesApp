@@ -10,6 +10,7 @@ cd NotesApp
 
 # If you are on Windows
 virtualenv env
+
 # If you are on Linux or Mac
 python -m venv venv
 --> Activate the virtual environment :
@@ -23,3 +24,4 @@ Running the App
 
 python manage.py runserver
 ⚠ Then, the development server will be started at http://127.0.0.1:8000/
+![Screenshot 2022-09-06 105452](https://user-images.githubusercontent.com/103302047/188557330-8ab588bd-3508-4fb6-8ea2-c55b1da766a6.png)
